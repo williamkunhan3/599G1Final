@@ -10,7 +10,7 @@ to preserve product fidelity in AI-generated short-form commerce video.
 | `manuscript.pdf`      | Full paper describing the method, experiments, and results.                 |
 | `Wan_Finetuning/`     | Dataset preprocessing pipeline and training/inference scripts for Wan2.2.   |
 | `diffsynth.zip`       | DiffSynth-Studio engine (packaged) used as the underlying diffusion backend.|
-| `model training/inference               | Packaged wheel for model training and inference.                            |
+| `model training/inference`               | Packaged wheel for model training and inference.                            |
 
 ## Quick Start
 
